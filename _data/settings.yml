@@ -1,9 +1,9 @@
 basic_settings:
-  site_title: Made
+  site_title: Yangminded
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 100
 
 menu_settings:
@@ -14,9 +14,9 @@ menu_settings:
       url: '/blog/'
 
 footer_settings:
-  logo_image: 
+  logo_image:
   logo_width: 100
-  tagline: A beautiful, minimal portfolio Jekyll theme
+  tagline: A Yang project
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
@@ -33,7 +33,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://twitter.com/yangminded'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -49,7 +49,7 @@ social_settings:
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
-  github_url: ''
+  github_url: 'https://github.com/YinglaiYang'
   reddit_url: ''
   flickr_url: ''
   etsy_url: ''
@@ -57,7 +57,8 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/yinglaiyang/'
+  zhihu_url: 'https://www.google.com'
 
 color_settings:
   background_color: '#ffffff'
@@ -70,9 +71,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">'
-  title_font: 'Rubik, sans-serif'
-  body_font: '"Ubuntu Mono", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Cabin|IBM+Plex+Mono:400,700&display=swap" rel="stylesheet">'
+  title_font: '"IBM Plex Mono", sans-serif'
+  body_font: 'Cabin, sans-serif'
   regular_weight: 400
   bold_weight: 700
   site_title:
@@ -174,7 +175,7 @@ font_settings:
     letter_spacing: -0.02
     line_height: 1.6
   buttons:
-    weight: 500
+    weight: 600
     letter_spacing: 0.4
 
 advanced_settings:
