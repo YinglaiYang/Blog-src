@@ -15,6 +15,13 @@
 			{% if site.data.settings.footer_settings.tagline %}
 			<p>{{ site.data.settings.footer_settings.tagline }}</p>
 			{% endif %}
+
+			<p>
+				<a href="{{ site.baseurl }}/impressum" class="footnote">
+				Impressum
+				</a>
+			</p>
+
 			<span class="footnote">© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
 			<a href="https://jekyllthemes.io" class="footnote" target="_blank">Jekyll Themes</a>
 		</div>

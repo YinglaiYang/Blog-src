@@ -1,9 +1,8 @@
 ---
 layout: default
-overtitle: Yangminded
-title: What?
-description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
-featured_image: /images/social.jpg
+overtitle:
+title: Home
+description:
 ---
 
 <div class="page-home">
@@ -12,6 +11,7 @@ featured_image: /images/social.jpg
 	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
 	{% endif %}
 
+<!-----
 	<section class="hero">
 		<div class="wrap grid">
 			<div class="title">
@@ -25,6 +25,9 @@ featured_image: /images/social.jpg
 			</p>
 		</div>
 	</section>
+------>
+
+	{% include section__about.html %}
 
 	<section class="listing">
 		<div class="wrap">
@@ -55,8 +58,6 @@ featured_image: /images/social.jpg
 			{% endfor %}
 		</div>
 	</section>
-
-	{% include section__about.html %}
 
 	<section class="recent-posts">
 		<div class="wrap grid">

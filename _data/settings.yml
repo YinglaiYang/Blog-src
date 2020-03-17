@@ -19,17 +19,17 @@ footer_settings:
   tagline: A Yang project
 
 hero_settings:
-  background_image: /images/backgrounds/background-hero.svg
+  background_image: #/images/backgrounds/background-hero.svg
 
 post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: ''
-  form_action: 'https://formspree.io/hello@jekyllthemes.io'
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Get in Touch'
+  email_address: 'yinglai@yangminded.com'
+  form_action: '' #'https://formspree.io/hello@jekyllthemes.io'
+  confirmation_url: '' #'/thanks'
+  email_subject: '' #'Contact form submission'
+  send_button_text: '' #'Get in Touch'
 
 social_settings:
   twitter_url: 'https://twitter.com/yangminded'
