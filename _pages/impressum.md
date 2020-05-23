@@ -1,9 +1,11 @@
 ---
-title: Contact / Impressum
+title: Impressum
 ---
 ![Contact information](images/contacts.svg)
 
-<a href="javascript:history.back()" title="Back">
-  <i class="fas fa-angle-double-left fa-2x"></i>
-  <span style="font-size: 2em;">Back</span>
+<!----
+<a href="#" onClick="location.href = document.referrer; return false;" title="Back" class="button--fill">
+  <i class="fas fa-angle-double-left fa"></i>
+  Back
 </a>
+---->
