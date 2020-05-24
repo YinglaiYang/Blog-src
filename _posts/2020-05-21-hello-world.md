@@ -2,7 +2,6 @@
 title: print('Hello World')
 date: 2020-05-20 19:30:00 +01:00
 description: The first blog post. An introduction.
-featured_image: '/images/demo.jpg'
 ---
 Has technology ever been more exciting than in the last few decades? Smartphones, social-media and deep learning would be popular examples that have changed the world. Quantum-computing, augmented reality and gene-editing are a few examples that might join the list in our lifetime.
 
