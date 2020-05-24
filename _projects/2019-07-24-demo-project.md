@@ -1,14 +1,14 @@
 ---
-title: Mobile app
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
-date: 2019-07-24 00:00:00
+title: Hello Geolife!
+subtitle: Deep dive into big data by practical application.
+date: 2020-05-24 13:30:00
 description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-featured_image: demo.jpg
+featured_image: /hello-geolife/code_slow-conversion.jpg
 accent_color: '#4C60E6'
 gallery_images:
-  - demo.jpg
-  - demo.jpg
-  - demo.jpg
+  - /hello-geolife/code_slow-conversion.jpg
+  - /hello-geolife/simplevis_single-trajectory.jpg
+  - /hello-geolife/simplevis_single-trajectory_data.jpg
 ---
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.

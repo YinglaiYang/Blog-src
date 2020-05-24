@@ -27,7 +27,7 @@
 
         &--new {
           &::before {
-            content: "NEW";
+            content: "LATEST";
             display: flex;
             justify-content: center;
             align-items: center;
@@ -46,13 +46,13 @@
             top: -28px;
             right: 30px;
 
-            transform: rotate(30deg);
+            transform: rotate(25deg);
           }
         }
       }
 
       .post__content-wrap {
-        justify-self: center;
+        justify-self: start;
         align-self: center;
       }
 
@@ -138,7 +138,7 @@
   @include mq(tabletl) {
     .all-posts {
       margin-bottom: 100px;
-      
+
       .post-new {
         grid-column: 1/4;
 
@@ -146,7 +146,7 @@
           height: 386px;
         }
       }
-			
+
       .posts__list {
         grid-template-columns: 1fr 1fr 1fr;
         grid-row-gap: 80px;
