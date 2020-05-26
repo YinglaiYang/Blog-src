@@ -28,3 +28,5 @@ Of course, both time and technology moved on and I am still keen to stay in the 
 I will keep y’all posted.
 
 In the meantime: Stay safe and keep on rocking!
+
+&#x1F91F;
