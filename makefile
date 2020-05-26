@@ -9,4 +9,7 @@ push:
 serve:
 	@bundler exec jekyll serve
 
+serve-future:
+	@bundler exec jekyll serve --future
+
 deploy: build push
