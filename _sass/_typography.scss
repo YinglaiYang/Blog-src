@@ -228,7 +228,15 @@ time {
 }
 
 code {
-  font-family: $body-font;
+  font-family: $title-font;
+}
+
+code.highlighter-rouge {
+  padding: 0em 0.3em;
+  color: #555;
+  background-color: #F9F9F9;
+  border: 1px solid #999;
+  border-radius: 3px;
 }
 
 ::selection {
