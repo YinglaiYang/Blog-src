@@ -6,7 +6,7 @@
 
 .page-post {
   .post__header {
-    padding-bottom: 48px;
+    padding-bottom: 12px;
   }
 
   .post__title {
@@ -14,7 +14,7 @@
   }
 
   .post__date {
-    margin-bottom: 48px;
+    margin-bottom: 16px;
   }
 
   .post__featured-image {
@@ -156,7 +156,7 @@
             text-align: center;
             color: $text-light-color;
           }
-          
+
           p {
             display: inline;
             max-width: 100%;
@@ -186,6 +186,7 @@
       font-size: $p-size-small;
       line-height: $p-lineheight;
       overflow: auto;
+      background-color: #FAFAFA;
 
       @include mq(tabletp) {
         font-size: $p-size;
@@ -197,7 +198,7 @@
     }
 
     .highlighter-rouge {
-      margin: 32px 0;
+      margin: 12px 0;
     }
 
     hr {
@@ -253,7 +254,7 @@
 
   @include mq(tabletp) {
     .post__header {
-      padding-bottom: 80px;
+      padding-bottom: 12px;
     }
 
     .post__title {
@@ -261,7 +262,7 @@
     }
 
     .post__date {
-      margin-bottom: 80px;
+      margin-bottom: 16px;
     }
 
     .post__content {
@@ -291,7 +292,7 @@
       .image-wrap,
       .video-wrap,
       .highlighter-rouge {
-        margin: 40px auto;
+        margin: 12px auto;
       }
     }
   }
